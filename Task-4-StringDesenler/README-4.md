@@ -1,1 +1,2 @@
-Bu kodlamada amacımız bir tablo oluşturmak gibi kodlama yapmaktı.
+Bu kodlamada amacımız stringler ile desenler oluşturmaktı kodlama başarılı.
+
